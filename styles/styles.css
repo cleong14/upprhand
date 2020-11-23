@@ -1,0 +1,17 @@
+/***************************
+ * DROPDOWN NAV MENU *
+ ***************************/
+.dropdown-nav {
+    position: fixed;
+    top: 26%;
+    left: 67%;
+}
+
+/****************
+ * AUDIO PLAYER *
+ ****************/
+.audio-player {
+    position: fixed;
+    top: 15%;
+    right: 5%;
+}
